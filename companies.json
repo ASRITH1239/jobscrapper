@@ -1,0 +1,3944 @@
+[
+  {
+    "row_number": 1,
+    "company": "Google India",
+    "career_page_url": "https://careers.google.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 2,
+    "company": "Microsoft India",
+    "career_page_url": "https://careers.microsoft.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 3,
+    "company": "Amazon India",
+    "career_page_url": "https://www.amazon.jobs",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 4,
+    "company": "Meta (Facebook) India",
+    "career_page_url": "https://www.metacareers.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 5,
+    "company": "Apple India",
+    "career_page_url": "https://jobs.apple.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 6,
+    "company": "IBM India",
+    "career_page_url": "https://www.ibm.com/in-en/employment",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 7,
+    "company": "Intel India",
+    "career_page_url": "https://jobs.intel.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 8,
+    "company": "Cisco India",
+    "career_page_url": "https://jobs.cisco.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 9,
+    "company": "Oracle India",
+    "career_page_url": "https://careers.oracle.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 10,
+    "company": "SAP India",
+    "career_page_url": "https://jobs.sap.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 11,
+    "company": "Adobe India",
+    "career_page_url": "https://careers.adobe.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 12,
+    "company": "Salesforce India",
+    "career_page_url": "https://careers.salesforce.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 13,
+    "company": "Qualcomm India",
+    "career_page_url": "https://careers.qualcomm.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 14,
+    "company": "Texas Instruments India",
+    "career_page_url": "https://careers.ti.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 15,
+    "company": "Nvidia India",
+    "career_page_url": "https://nvidia.wd5.myworkdayjobs.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": true,
+    "source": "career-page"
+  },
+  {
+    "row_number": 16,
+    "company": "Dell Technologies India",
+    "career_page_url": "https://jobs.dell.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 17,
+    "company": "HP India",
+    "career_page_url": "https://jobs.hp.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 18,
+    "company": "Accenture India",
+    "career_page_url": "https://www.accenture.com/in-en/careers",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 19,
+    "company": "Capgemini India",
+    "career_page_url": "https://www.capgemini.com/in-en/careers",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 20,
+    "company": "Cognizant India",
+    "career_page_url": "https://careers.cognizant.com",
+    "category": "Tech MNC",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 21,
+    "company": "TCS",
+    "career_page_url": "https://www.tcs.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 22,
+    "company": "Infosys",
+    "career_page_url": "https://www.infosys.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 23,
+    "company": "Wipro",
+    "career_page_url": "https://careers.wipro.com",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 24,
+    "company": "HCL Technologies",
+    "career_page_url": "https://www.hcltech.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 25,
+    "company": "Tech Mahindra",
+    "career_page_url": "https://careers.techmahindra.com",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 26,
+    "company": "Mphasis",
+    "career_page_url": "https://careers.mphasis.com",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 27,
+    "company": "L&T Technology Services",
+    "career_page_url": "https://www.ltts.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 28,
+    "company": "Persistent Systems",
+    "career_page_url": "https://www.persistent.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 29,
+    "company": "Hexaware",
+    "career_page_url": "https://hexaware.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 30,
+    "company": "Mindtree",
+    "career_page_url": "https://www.mindtree.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 31,
+    "company": "NIIT Technologies",
+    "career_page_url": "https://www.niit-tech.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 32,
+    "company": "Birlasoft",
+    "career_page_url": "https://www.birlasoft.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 33,
+    "company": "Mastech Digital",
+    "career_page_url": "https://www.mastechdigital.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 34,
+    "company": "Zensar Technologies",
+    "career_page_url": "https://www.zensar.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 35,
+    "company": "KPIT Technologies",
+    "career_page_url": "https://www.kpit.com/careers",
+    "category": "Indian IT",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 36,
+    "company": "Razorpay",
+    "career_page_url": "https://razorpay.com/jobs",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 37,
+    "company": "CRED",
+    "career_page_url": "https://careers.cred.club",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 38,
+    "company": "Zepto",
+    "career_page_url": "https://www.zepto.team/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 39,
+    "company": "Meesho",
+    "career_page_url": "https://meesho.io/jobs",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 40,
+    "company": "PhonePe",
+    "career_page_url": "https://careers.phonepe.com",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 41,
+    "company": "Groww",
+    "career_page_url": "https://groww.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 42,
+    "company": "Zomato",
+    "career_page_url": "https://www.zomato.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 43,
+    "company": "Swiggy",
+    "career_page_url": "https://careers.swiggy.com",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 44,
+    "company": "Ola Cabs",
+    "career_page_url": "https://www.olacabs.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 45,
+    "company": "Paytm",
+    "career_page_url": "https://paytm.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 46,
+    "company": "Byju's",
+    "career_page_url": "https://byjus.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 47,
+    "company": "Unacademy",
+    "career_page_url": "https://unacademy.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 48,
+    "company": "Freshworks",
+    "career_page_url": "https://www.freshworks.com/company/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 49,
+    "company": "Khatabook",
+    "career_page_url": "https://khatabook.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 50,
+    "company": "Slice",
+    "career_page_url": "https://sliceit.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 51,
+    "company": "Spinny",
+    "career_page_url": "https://www.spinny.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 52,
+    "company": "Dukaan",
+    "career_page_url": "https://mydukaan.io/careers",
+    "category": "Indian Startup",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 53,
+    "company": "Niyo",
+    "career_page_url": "https://www.goniyo.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 54,
+    "company": "Vahan",
+    "career_page_url": "https://vahan.co/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 55,
+    "company": "BharatPe",
+    "career_page_url": "https://bharatpe.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 56,
+    "company": "Navi Technologies",
+    "career_page_url": "https://navi.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 57,
+    "company": "Jupiter Money",
+    "career_page_url": "https://jupiter.money/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 58,
+    "company": "Fi Money",
+    "career_page_url": "https://fi.money/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 59,
+    "company": "OkCredit",
+    "career_page_url": "https://okcredit.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 60,
+    "company": "Moj (ShareChat)",
+    "career_page_url": "https://sharechat.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 61,
+    "company": "Darwinbox",
+    "career_page_url": "https://darwinbox.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 62,
+    "company": "Leadsquared",
+    "career_page_url": "https://www.leadsquared.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 63,
+    "company": "CleverTap",
+    "career_page_url": "https://clevertap.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 64,
+    "company": "Postman",
+    "career_page_url": "https://www.postman.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 65,
+    "company": "BrowserStack",
+    "career_page_url": "https://www.browserstack.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 66,
+    "company": "Chargebee",
+    "career_page_url": "https://www.chargebee.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 67,
+    "company": "Zoho",
+    "career_page_url": "https://www.zoho.com/careers.html",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 68,
+    "company": "Freshteam (Freshworks)",
+    "career_page_url": "https://www.freshworks.com/hrms/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 69,
+    "company": "Lenskart",
+    "career_page_url": "https://www.lenskart.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 70,
+    "company": "Nykaa",
+    "career_page_url": "https://www.nykaa.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 71,
+    "company": "Mamaearth",
+    "career_page_url": "https://mamaearth.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 72,
+    "company": "boAt Lifestyle",
+    "career_page_url": "https://www.boat-lifestyle.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 73,
+    "company": "Noise",
+    "career_page_url": "https://gonoise.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 74,
+    "company": "WakeFit",
+    "career_page_url": "https://www.wakefit.co/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 75,
+    "company": "Urban Ladder",
+    "career_page_url": "https://www.urbanladder.com/pages/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 76,
+    "company": "Pepperfry",
+    "career_page_url": "https://pepperfry.com/careers.html",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 77,
+    "company": "Purplle",
+    "career_page_url": "https://www.purplle.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 78,
+    "company": "Sugar Cosmetics",
+    "career_page_url": "https://www.sugarcosmetics.com/pages/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 79,
+    "company": "Wow Skin Science",
+    "career_page_url": "https://www.wowskinscience.com/pages/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 80,
+    "company": "Atomberg",
+    "career_page_url": "https://atomberg.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 81,
+    "company": "Cashkaro",
+    "career_page_url": "https://cashkaro.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 82,
+    "company": "CoinDCX",
+    "career_page_url": "https://coindcx.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 83,
+    "company": "WazirX",
+    "career_page_url": "https://wazirx.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 84,
+    "company": "CoinSwitch",
+    "career_page_url": "https://coinswitch.co/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 85,
+    "company": "Acko Insurance",
+    "career_page_url": "https://www.acko.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 86,
+    "company": "PolicyBazaar",
+    "career_page_url": "https://www.policybazaar.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 87,
+    "company": "Digit Insurance",
+    "career_page_url": "https://www.godigit.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 88,
+    "company": "Zetwerk",
+    "career_page_url": "https://www.zetwerk.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 89,
+    "company": "Moglix",
+    "career_page_url": "https://www.moglix.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 90,
+    "company": "Delhivery",
+    "career_page_url": "https://www.delhivery.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 91,
+    "company": "Ecom Express",
+    "career_page_url": "https://ecomexpress.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 92,
+    "company": "Shadowfax",
+    "career_page_url": "https://shadowfax.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 93,
+    "company": "Porter",
+    "career_page_url": "https://porter.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 94,
+    "company": "Rapido",
+    "career_page_url": "https://rapido.bike/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 95,
+    "company": "Bounce",
+    "career_page_url": "https://bounce.bike/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 96,
+    "company": "Yulu",
+    "career_page_url": "https://www.yulu.bike/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 97,
+    "company": "Ather Energy",
+    "career_page_url": "https://www.atherenergy.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 98,
+    "company": "Ola Electric",
+    "career_page_url": "https://careers.olaelectric.com",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 99,
+    "company": "Simple Energy",
+    "career_page_url": "https://simpleenergy.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 100,
+    "company": "Revolt Motors",
+    "career_page_url": "https://www.revoltmotors.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 101,
+    "company": "BluSmart",
+    "career_page_url": "https://www.blusmart.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 102,
+    "company": "Euler Motors",
+    "career_page_url": "https://eulermotors.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 103,
+    "company": "Log9 Materials",
+    "career_page_url": "https://log9materials.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 104,
+    "company": "Exotel",
+    "career_page_url": "https://exotel.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 105,
+    "company": "Gupshup",
+    "career_page_url": "https://www.gupshup.io/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 106,
+    "company": "Kaleyra",
+    "career_page_url": "https://www.kaleyra.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 107,
+    "company": "Yellow.ai",
+    "career_page_url": "https://yellow.ai/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 108,
+    "company": "Haptik",
+    "career_page_url": "https://www.haptik.ai/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 109,
+    "company": "Niki.ai",
+    "career_page_url": "https://niki.ai/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 110,
+    "company": "Leher App",
+    "career_page_url": "https://leher.app/careers",
+    "category": "Indian Startup",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 111,
+    "company": "Kutumb",
+    "career_page_url": "https://www.kutumb.app/careers",
+    "category": "Indian Startup",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 112,
+    "company": "Dunzo",
+    "career_page_url": "https://dunzo.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 113,
+    "company": "Blinkit (Grofers)",
+    "career_page_url": "https://blinkit.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 114,
+    "company": "Milkbasket",
+    "career_page_url": "https://www.milkbasket.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 115,
+    "company": "Country Delight",
+    "career_page_url": "https://countrydelight.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 116,
+    "company": "Licious",
+    "career_page_url": "https://www.licious.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 117,
+    "company": "FreshToHome",
+    "career_page_url": "https://freshtohome.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 118,
+    "company": "Plum HR",
+    "career_page_url": "https://plumhq.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 119,
+    "company": "RazorpayX Payroll",
+    "career_page_url": "https://razorpay.com/payroll/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 120,
+    "company": "Kredivo India",
+    "career_page_url": "https://kredivo.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 121,
+    "company": "Finbox",
+    "career_page_url": "https://www.finbox.in/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 122,
+    "company": "Credgenics",
+    "career_page_url": "https://credgenics.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 123,
+    "company": "Yodawy",
+    "career_page_url": "https://yodawy.com/careers",
+    "category": "Indian Startup",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 124,
+    "company": "Vedantu",
+    "career_page_url": "https://www.vedantu.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 125,
+    "company": "Toppr",
+    "career_page_url": "https://www.toppr.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 126,
+    "company": "Embibe",
+    "career_page_url": "https://www.embibe.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 127,
+    "company": "Classplus",
+    "career_page_url": "https://classplusapp.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 128,
+    "company": "Teachmint",
+    "career_page_url": "https://teachmint.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 129,
+    "company": "Lead School",
+    "career_page_url": "https://leadschool.in/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 130,
+    "company": "Extramarks",
+    "career_page_url": "https://www.extramarks.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 131,
+    "company": "Meritnation",
+    "career_page_url": "https://www.meritnation.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 132,
+    "company": "UpGrad",
+    "career_page_url": "https://careers.upgrad.com",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 133,
+    "company": "Great Learning",
+    "career_page_url": "https://www.mygreatlearning.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 134,
+    "company": "Simplilearn",
+    "career_page_url": "https://www.simplilearn.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 135,
+    "company": "Scaler Academy",
+    "career_page_url": "https://www.scaler.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 136,
+    "company": "Newton School",
+    "career_page_url": "https://newtonschool.co/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 137,
+    "company": "AlmaBetter",
+    "career_page_url": "https://www.almabetter.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 138,
+    "company": "Coding Ninjas",
+    "career_page_url": "https://www.codingninjas.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 139,
+    "company": "InterviewBit",
+    "career_page_url": "https://www.interviewbit.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 140,
+    "company": "PW (Physics Wallah)",
+    "career_page_url": "https://physicswallah.live/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 141,
+    "company": "iNeuron",
+    "career_page_url": "https://ineuron.ai/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 142,
+    "company": "Sunstone Eduversity",
+    "career_page_url": "https://sunstone.edu.in/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 143,
+    "company": "Masai School",
+    "career_page_url": "https://www.masaischool.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 144,
+    "company": "Leverage Edu",
+    "career_page_url": "https://leverageedu.com/blog/leverage-edu-careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 145,
+    "company": "College Vidya",
+    "career_page_url": "https://www.collegevidya.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 146,
+    "company": "Collegedunia",
+    "career_page_url": "https://collegedunia.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 147,
+    "company": "Shiksha.com",
+    "career_page_url": "https://www.shiksha.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 148,
+    "company": "CollegeDekho",
+    "career_page_url": "https://www.collegedekho.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 149,
+    "company": "Careers360",
+    "career_page_url": "https://careers360.com/about/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 150,
+    "company": "AdmitKard",
+    "career_page_url": "https://admitkard.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 151,
+    "company": "iSchoolConnect",
+    "career_page_url": "https://ischoolconnect.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 152,
+    "company": "Practically",
+    "career_page_url": "https://practically.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 153,
+    "company": "Lido Learning",
+    "career_page_url": "https://www.lido.in/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 154,
+    "company": "Cuemath",
+    "career_page_url": "https://www.cuemath.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 155,
+    "company": "SuperTeacher",
+    "career_page_url": "https://superteacher.in/careers",
+    "category": "EdTech",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 156,
+    "company": "Skill-Lync",
+    "career_page_url": "https://skill-lync.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 157,
+    "company": "Kraftshala",
+    "career_page_url": "https://www.kraftshala.com/careers",
+    "category": "EdTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 158,
+    "company": "Zerodha",
+    "career_page_url": "https://zerodha.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 159,
+    "company": "Upstox",
+    "career_page_url": "https://upstox.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 160,
+    "company": "Angel One",
+    "career_page_url": "https://www.angelone.in/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 161,
+    "company": "5paisa",
+    "career_page_url": "https://www.5paisa.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 162,
+    "company": "Smallcase",
+    "career_page_url": "https://smallcase.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 163,
+    "company": "ET Money",
+    "career_page_url": "https://www.etmoney.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 164,
+    "company": "Kuvera",
+    "career_page_url": "https://kuvera.in/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 165,
+    "company": "INDmoney",
+    "career_page_url": "https://indmoney.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 166,
+    "company": "Jar App",
+    "career_page_url": "https://jar.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 167,
+    "company": "Stashfin",
+    "career_page_url": "https://stashfin.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 168,
+    "company": "KreditBee",
+    "career_page_url": "https://www.kreditbee.in/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 169,
+    "company": "MoneyTap",
+    "career_page_url": "https://www.moneytap.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 170,
+    "company": "EarlySalary",
+    "career_page_url": "https://www.earlysalary.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 171,
+    "company": "Axio (Capital Float)",
+    "career_page_url": "https://axio.co.in/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 172,
+    "company": "Lendingkart",
+    "career_page_url": "https://www.lendingkart.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 173,
+    "company": "Progcap",
+    "career_page_url": "https://progcap.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 174,
+    "company": "Perfios",
+    "career_page_url": "https://www.perfios.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 175,
+    "company": "Setu",
+    "career_page_url": "https://setu.co/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 176,
+    "company": "M2P Fintech",
+    "career_page_url": "https://m2pfintech.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 177,
+    "company": "Cashfree Payments",
+    "career_page_url": "https://www.cashfree.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 178,
+    "company": "PayU India",
+    "career_page_url": "https://corporate.payu.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 179,
+    "company": "Instamojo",
+    "career_page_url": "https://www.instamojo.com/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 180,
+    "company": "PayGlocal",
+    "career_page_url": "https://payglocal.in/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 181,
+    "company": "Open Money",
+    "career_page_url": "https://open.money/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 182,
+    "company": "RazorpayX",
+    "career_page_url": "https://razorpay.com/x/careers",
+    "category": "FinTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 183,
+    "company": "Practo",
+    "career_page_url": "https://practo.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 184,
+    "company": "PharmEasy",
+    "career_page_url": "https://pharmeasy.in/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 185,
+    "company": "1mg (Tata Health)",
+    "career_page_url": "https://www.1mg.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 186,
+    "company": "Netmeds",
+    "career_page_url": "https://www.netmeds.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 187,
+    "company": "Apollo 24|7",
+    "career_page_url": "https://careers.apollo247.com",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 188,
+    "company": "Medlife",
+    "career_page_url": "https://www.medlife.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 189,
+    "company": "Portea Medical",
+    "career_page_url": "https://www.portea.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 190,
+    "company": "MFine",
+    "career_page_url": "https://mfine.co/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 191,
+    "company": "Niramai",
+    "career_page_url": "https://www.niramai.com/careers",
+    "category": "HealthTech",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 192,
+    "company": "Tricog Health",
+    "career_page_url": "https://tricog.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 193,
+    "company": "Siemens Healthineers India",
+    "career_page_url": "https://www.siemens-healthineers.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 194,
+    "company": "Medtronic India",
+    "career_page_url": "https://jobs.medtronic.com",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 195,
+    "company": "Narayana Health",
+    "career_page_url": "https://www.narayanahealth.org/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 196,
+    "company": "Aster DM Healthcare",
+    "career_page_url": "https://www.asterdmhealthcare.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 197,
+    "company": "Healthians",
+    "career_page_url": "https://www.healthians.com/careers",
+    "category": "HealthTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 198,
+    "company": "DeHaat",
+    "career_page_url": "https://dehaat.com/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 199,
+    "company": "Ninjacart",
+    "career_page_url": "https://www.ninjacart.com/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 200,
+    "company": "Agrostar",
+    "career_page_url": "https://www.agrostar.in/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 201,
+    "company": "WayCool Foods",
+    "career_page_url": "https://waycool.in/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 202,
+    "company": "Gramophone",
+    "career_page_url": "https://www.gramophone.in/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 203,
+    "company": "Bijak",
+    "career_page_url": "https://bijak.in/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 204,
+    "company": "Cropin",
+    "career_page_url": "https://www.cropin.com/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 205,
+    "company": "Fasal",
+    "career_page_url": "https://fasal.co/careers",
+    "category": "AgriTech",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 206,
+    "company": "Stellapps",
+    "career_page_url": "https://stellapps.com/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 207,
+    "company": "Clover Infotech",
+    "career_page_url": "https://www.cloverinfotech.com/careers",
+    "category": "AgriTech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 208,
+    "company": "Scroll.in",
+    "career_page_url": "https://scroll.in/about/jobs",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 209,
+    "company": "The Wire",
+    "career_page_url": "https://thewire.in/jobs",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 210,
+    "company": "The Print",
+    "career_page_url": "https://theprint.in/careers",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 211,
+    "company": "Inc42",
+    "career_page_url": "https://inc42.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 212,
+    "company": "YourStory",
+    "career_page_url": "https://yourstory.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 213,
+    "company": "Entrackr",
+    "career_page_url": "https://entrackr.com/careers",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 214,
+    "company": "Moneycontrol",
+    "career_page_url": "https://www.moneycontrol.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 215,
+    "company": "ET (Economic Times)",
+    "career_page_url": "https://economictimes.indiatimes.com/jobs",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 216,
+    "company": "Business Standard",
+    "career_page_url": "https://www.business-standard.com/career",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 217,
+    "company": "Mint (HT Media)",
+    "career_page_url": "https://www.htmedia.in/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 218,
+    "company": "Zee Entertainment",
+    "career_page_url": "https://www.zeel.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 219,
+    "company": "Hotstar (Disney+ Hotstar)",
+    "career_page_url": "https://careers.hotstar.com",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 220,
+    "company": "SonyLIV",
+    "career_page_url": "https://www.sonylivjobs.com",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 221,
+    "company": "MX Player",
+    "career_page_url": "https://www.mxplayer.in/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 222,
+    "company": "Pocket FM",
+    "career_page_url": "https://pocketfm.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 223,
+    "company": "Kuku FM",
+    "career_page_url": "https://kukufm.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 224,
+    "company": "Stage OTT",
+    "career_page_url": "https://stage.in/careers",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 225,
+    "company": "Pratilipi",
+    "career_page_url": "https://pratilipi.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 226,
+    "company": "Freak Media",
+    "career_page_url": "https://freakmedia.in/careers",
+    "category": "Media",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 227,
+    "company": "NDTV",
+    "career_page_url": "https://www.ndtv.com/careers",
+    "category": "Media",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 228,
+    "company": "Flipkart",
+    "career_page_url": "https://www.flipkartcareers.com",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 229,
+    "company": "Myntra",
+    "career_page_url": "https://careers.myntra.com",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 230,
+    "company": "Ajio",
+    "career_page_url": "https://www.ajio.com/s/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 231,
+    "company": "Snapdeal",
+    "career_page_url": "https://careers.snapdeal.com",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 232,
+    "company": "ShopClues",
+    "career_page_url": "https://www.shopclues.com/careers.html",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 233,
+    "company": "BigBasket",
+    "career_page_url": "https://www.bigbasket.com/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 234,
+    "company": "JioMart",
+    "career_page_url": "https://careers.jio.com",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 235,
+    "company": "Tata CLiQ",
+    "career_page_url": "https://www.tatacliq.com/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 236,
+    "company": "Reliance Retail",
+    "career_page_url": "https://careers.ril.com",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 237,
+    "company": "D-Mart (Avenue Supermarts)",
+    "career_page_url": "https://www.dmartindia.com/career",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 238,
+    "company": "FirstCry",
+    "career_page_url": "https://firstcry.com/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 239,
+    "company": "Udaan",
+    "career_page_url": "https://udaan.com/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 240,
+    "company": "Juspay",
+    "career_page_url": "https://juspay.in/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 241,
+    "company": "GoKwik",
+    "career_page_url": "https://gokwik.co/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 242,
+    "company": "Shiprocket",
+    "career_page_url": "https://shiprocket.in/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 243,
+    "company": "Pickrr",
+    "career_page_url": "https://pickrr.com/careers",
+    "category": "E-Commerce",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 244,
+    "company": "greytHR",
+    "career_page_url": "https://www.greythr.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 245,
+    "company": "Keka HR",
+    "career_page_url": "https://www.keka.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 246,
+    "company": "Zimyo",
+    "career_page_url": "https://zimyo.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 247,
+    "company": "HRMantra",
+    "career_page_url": "https://www.hrmantra.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 248,
+    "company": "SumHR",
+    "career_page_url": "https://www.sumhr.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 249,
+    "company": "Springworks",
+    "career_page_url": "https://www.springworks.in/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 250,
+    "company": "Hirequest",
+    "career_page_url": "https://www.hirequest.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 251,
+    "company": "Hirepro",
+    "career_page_url": "https://www.hirepro.in/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 252,
+    "company": "iMocha",
+    "career_page_url": "https://imocha.io/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 253,
+    "company": "MoEngage",
+    "career_page_url": "https://www.moengage.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 254,
+    "company": "WebEngage",
+    "career_page_url": "https://webengage.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 255,
+    "company": "Netcore Cloud",
+    "career_page_url": "https://netcorecloud.com/careers",
+    "category": "HR Tech",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 256,
+    "company": "MakeMyTrip",
+    "career_page_url": "https://careers.makemytrip.com",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 257,
+    "company": "GoIbibo",
+    "career_page_url": "https://careers.goibibo.com",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 258,
+    "company": "EaseMyTrip",
+    "career_page_url": "https://www.easemytrip.com/careers.html",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 259,
+    "company": "Yatra.com",
+    "career_page_url": "https://www.yatra.com/about-yatra/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 260,
+    "company": "OYO Rooms",
+    "career_page_url": "https://www.oyorooms.com/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 261,
+    "company": "FabHotels",
+    "career_page_url": "https://www.fabhotels.com/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 262,
+    "company": "Zostel",
+    "career_page_url": "https://www.zostel.com/careers",
+    "category": "Travel",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 263,
+    "company": "ixigo",
+    "career_page_url": "https://www.ixigo.com/info/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 264,
+    "company": "Cleartrip",
+    "career_page_url": "https://www.cleartrip.com/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 265,
+    "company": "Thomas Cook India",
+    "career_page_url": "https://www.thomascook.in/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 266,
+    "company": "Cox & Kings",
+    "career_page_url": "https://www.coxandkings.com/india/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 267,
+    "company": "Treebo Hotels",
+    "career_page_url": "https://www.treebo.com/careers",
+    "category": "Travel",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 268,
+    "company": "SafariBharat",
+    "career_page_url": "https://safaribharat.com/careers",
+    "category": "Travel",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 269,
+    "company": "Dream11",
+    "career_page_url": "https://dream11.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 270,
+    "company": "MPL (Mobile Premier League)",
+    "career_page_url": "https://mpl.live/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 271,
+    "company": "WinZO",
+    "career_page_url": "https://winzogames.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 272,
+    "company": "Nazara Technologies",
+    "career_page_url": "https://www.nazara.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 273,
+    "company": "nCore Games",
+    "career_page_url": "https://www.ncoregames.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 274,
+    "company": "Absolute Games",
+    "career_page_url": "https://absolutegames.in/careers",
+    "category": "Gaming",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 275,
+    "company": "Junglee Games",
+    "career_page_url": "https://jungleegames.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 276,
+    "company": "Gameskraft",
+    "career_page_url": "https://gameskraft.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 277,
+    "company": "Octet (Games24x7)",
+    "career_page_url": "https://www.games24x7.com/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 278,
+    "company": "Deltatech Gaming",
+    "career_page_url": "https://www.deltatech.games/careers",
+    "category": "Gaming",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 279,
+    "company": "Canva India",
+    "career_page_url": "https://www.canva.com/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 280,
+    "company": "Design Caf\u00e9",
+    "career_page_url": "https://designcafe.com/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 281,
+    "company": "Livspace",
+    "career_page_url": "https://www.livspace.com/in/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 282,
+    "company": "Homelane",
+    "career_page_url": "https://homelane.com/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 283,
+    "company": "Pepper Content",
+    "career_page_url": "https://www.peppercontent.io/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 284,
+    "company": "Contify",
+    "career_page_url": "https://www.contify.com/careers",
+    "category": "Design",
+    "type": "Paid/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 285,
+    "company": "UserTesting India",
+    "career_page_url": "https://www.usertesting.com/careers",
+    "category": "Design",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 286,
+    "company": "Whatfix",
+    "career_page_url": "https://whatfix.com/careers",
+    "category": "Design/SaaS",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 287,
+    "company": "Wingify (VWO)",
+    "career_page_url": "https://wingify.com/careers",
+    "category": "Design/SaaS",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 288,
+    "company": "Quick Heal",
+    "career_page_url": "https://www.quickheal.co.in/careers",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 289,
+    "company": "Seqrite",
+    "career_page_url": "https://www.seqrite.com/careers",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 290,
+    "company": "Lucideus (SAFE)",
+    "career_page_url": "https://lucideus.com/careers",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 291,
+    "company": "Sequretek",
+    "career_page_url": "https://www.sequretek.com/careers",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 292,
+    "company": "Indusface",
+    "career_page_url": "https://www.indusface.com/careers",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 293,
+    "company": "Tata Communications",
+    "career_page_url": "https://careers.tatacommunications.com",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 294,
+    "company": "Palo Alto Networks India",
+    "career_page_url": "https://jobs.paloaltonetworks.com",
+    "category": "Cyber Security",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 295,
+    "company": "DigitalOcean India",
+    "career_page_url": "https://www.digitalocean.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 296,
+    "company": "Cloudflare India",
+    "career_page_url": "https://www.cloudflare.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 297,
+    "company": "Rackspace India",
+    "career_page_url": "https://www.rackspace.com/talent",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 298,
+    "company": "E2E Networks",
+    "career_page_url": "https://www.e2enetworks.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 299,
+    "company": "Yotta Infrastructure",
+    "career_page_url": "https://yottadata.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 300,
+    "company": "NxtGen",
+    "career_page_url": "https://nxtgen.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 301,
+    "company": "Sify Technologies",
+    "career_page_url": "https://www.sifytechnologies.com/careers",
+    "category": "Cloud",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 302,
+    "company": "Deloitte India",
+    "career_page_url": "https://www2.deloitte.com/in/en/careers.html",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 303,
+    "company": "PwC India",
+    "career_page_url": "https://www.pwc.in/careers.html",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 304,
+    "company": "EY India",
+    "career_page_url": "https://careers.ey.com",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 305,
+    "company": "KPMG India",
+    "career_page_url": "https://home.kpmg/in/en/home/careers.html",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 306,
+    "company": "McKinsey India",
+    "career_page_url": "https://www.mckinsey.com/in/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 307,
+    "company": "BCG India",
+    "career_page_url": "https://careers.bcg.com",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 308,
+    "company": "Bain & Company India",
+    "career_page_url": "https://www.bain.com/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 309,
+    "company": "A.T. Kearney India",
+    "career_page_url": "https://www.kearney.com/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 310,
+    "company": "Grant Thornton India",
+    "career_page_url": "https://www.grantthornton.in/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 311,
+    "company": "BDO India",
+    "career_page_url": "https://www.bdoindia.com/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 312,
+    "company": "RSM India",
+    "career_page_url": "https://www.rsmchokshi.com/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 313,
+    "company": "Protiviti India",
+    "career_page_url": "https://www.protiviti.com/IN-en/careers",
+    "category": "Consulting",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 314,
+    "company": "HDFC Bank",
+    "career_page_url": "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?folderPath=/Careers/",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 315,
+    "company": "ICICI Bank",
+    "career_page_url": "https://www.icicicareers.com",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 316,
+    "company": "Axis Bank",
+    "career_page_url": "https://www.axisbank.com/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 317,
+    "company": "Kotak Mahindra Bank",
+    "career_page_url": "https://www.kotak.com/en/careers.html",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 318,
+    "company": "Yes Bank",
+    "career_page_url": "https://www.yesbank.in/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 319,
+    "company": "IndusInd Bank",
+    "career_page_url": "https://www.indusind.com/in/en/careers.html",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 320,
+    "company": "Federal Bank",
+    "career_page_url": "https://www.federalbank.co.in/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 321,
+    "company": "RBL Bank",
+    "career_page_url": "https://www.rblbank.com/about-us/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 322,
+    "company": "Bandhan Bank",
+    "career_page_url": "https://www.bandhanbank.com/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 323,
+    "company": "Bajaj Finserv",
+    "career_page_url": "https://www.bajajfinserv.in/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 324,
+    "company": "Aditya Birla Capital",
+    "career_page_url": "https://careers.adityabirlacapital.com",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 325,
+    "company": "Muthoot Finance",
+    "career_page_url": "https://www.muthootfinance.com/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 326,
+    "company": "Shriram Finance",
+    "career_page_url": "https://www.shriramfinance.in/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 327,
+    "company": "L&T Finance",
+    "career_page_url": "https://www.ltfs.com/careers.html",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 328,
+    "company": "Mahindra Finance",
+    "career_page_url": "https://www.mahindrafinance.com/careers",
+    "category": "Banking",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 329,
+    "company": "Tata Motors",
+    "career_page_url": "https://careers.tatamotors.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 330,
+    "company": "Mahindra & Mahindra",
+    "career_page_url": "https://careers.mahindra.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 331,
+    "company": "Maruti Suzuki",
+    "career_page_url": "https://careers.marutisuzuki.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 332,
+    "company": "Bajaj Auto",
+    "career_page_url": "https://www.bajajauto.com/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 333,
+    "company": "Hero MotoCorp",
+    "career_page_url": "https://careers.heromotocorp.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 334,
+    "company": "Bosch India",
+    "career_page_url": "https://www.bosch.in/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 335,
+    "company": "Siemens India",
+    "career_page_url": "https://jobs.siemens.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 336,
+    "company": "ABB India",
+    "career_page_url": "https://careers.abb.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 337,
+    "company": "Havells India",
+    "career_page_url": "https://www.havells.com/careers.html",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 338,
+    "company": "Legrand India",
+    "career_page_url": "https://www.legrand.co.in/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 339,
+    "company": "Godrej & Boyce",
+    "career_page_url": "https://www.godrej.com/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 340,
+    "company": "Finolex Industries",
+    "career_page_url": "https://www.finolexindustries.com/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 341,
+    "company": "Hindalco",
+    "career_page_url": "https://www.hindalco.com/careers",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 342,
+    "company": "JSW Group",
+    "career_page_url": "https://careers.jsw.in",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 343,
+    "company": "Adani Group",
+    "career_page_url": "https://careers.adani.com",
+    "category": "Manufacturing",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 344,
+    "company": "Sun Pharma",
+    "career_page_url": "https://www.sunpharma.com/careers",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 345,
+    "company": "Dr. Reddy's Laboratories",
+    "career_page_url": "https://careers.drreddys.com",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 346,
+    "company": "Cipla",
+    "career_page_url": "https://careers.cipla.com",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 347,
+    "company": "Lupin Pharmaceuticals",
+    "career_page_url": "https://www.lupin.com/careers",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 348,
+    "company": "Torrent Pharma",
+    "career_page_url": "https://careers.torrentpharma.com",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 349,
+    "company": "Zydus Lifesciences",
+    "career_page_url": "https://www.zyduslife.com/career.html",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 350,
+    "company": "Aurobindo Pharma",
+    "career_page_url": "https://www.aurobindo.com/career.htm",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 351,
+    "company": "Biocon",
+    "career_page_url": "https://careers.biocon.com",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 352,
+    "company": "Piramal Enterprises",
+    "career_page_url": "https://careers.piramal.com",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 353,
+    "company": "Glenmark Pharma",
+    "career_page_url": "https://www.glenmarkpharma.com/careers",
+    "category": "Pharma",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 354,
+    "company": "CRY (Child Rights & You)",
+    "career_page_url": "https://www.cry.org/join-us/internships",
+    "category": "NGO",
+    "type": "Unpaid/Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 355,
+    "company": "Teach For India",
+    "career_page_url": "https://www.teachforindia.org/join-us",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 356,
+    "company": "Pratham",
+    "career_page_url": "https://www.pratham.org/careers",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 357,
+    "company": "iVolunteer",
+    "career_page_url": "https://www.ivolunteer.in/internships",
+    "category": "NGO",
+    "type": "Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 358,
+    "company": "GiveIndia",
+    "career_page_url": "https://jobs.giveindia.org",
+    "category": "NGO",
+    "type": "Paid/Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 359,
+    "company": "Akanksha Foundation",
+    "career_page_url": "https://www.akanksha.org/join-us",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 360,
+    "company": "Magic Bus India",
+    "career_page_url": "https://www.magicbus.org/join-us",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 361,
+    "company": "Samhita Social Ventures",
+    "career_page_url": "https://samhita.org/careers",
+    "category": "NGO",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 362,
+    "company": "Digital Empowerment Foundation",
+    "career_page_url": "https://defindia.org/join-us/careers",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 363,
+    "company": "Naz Foundation",
+    "career_page_url": "https://nazindia.org/join-us/careers",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 364,
+    "company": "Swaniti Initiative",
+    "career_page_url": "https://www.swaniti.com/careers",
+    "category": "NGO",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 365,
+    "company": "GitLab",
+    "career_page_url": "https://about.gitlab.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 366,
+    "company": "Automattic (WordPress.com)",
+    "career_page_url": "https://automattic.com/work-with-us",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 367,
+    "company": "Basecamp (37signals)",
+    "career_page_url": "https://37signals.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 368,
+    "company": "Toptal",
+    "career_page_url": "https://www.toptal.com/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 369,
+    "company": "Turing",
+    "career_page_url": "https://www.turing.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 370,
+    "company": "Deel",
+    "career_page_url": "https://www.deel.com/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 371,
+    "company": "Remote.com",
+    "career_page_url": "https://remote.com/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 372,
+    "company": "Hotjar",
+    "career_page_url": "https://www.hotjar.com/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 373,
+    "company": "Buffer",
+    "career_page_url": "https://buffer.com/journey",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 374,
+    "company": "Doist (Todoist)",
+    "career_page_url": "https://doist.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 375,
+    "company": "Help Scout",
+    "career_page_url": "https://www.helpscout.com/company/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 376,
+    "company": "Zapier",
+    "career_page_url": "https://zapier.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 377,
+    "company": "Hubstaff",
+    "career_page_url": "https://hubstaff.com/jobs",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 378,
+    "company": "Superside",
+    "career_page_url": "https://www.superside.com/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 379,
+    "company": "Clutch (G2 Crowd)",
+    "career_page_url": "https://clutch.co/careers",
+    "category": "Global Remote",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 380,
+    "company": "NCS Portal (Govt of India)",
+    "career_page_url": "https://www.ncs.gov.in",
+    "category": "Govt Portal",
+    "type": "Paid/Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 381,
+    "company": "AICTE Internship Portal",
+    "career_page_url": "https://internship.aicte-india.org",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 382,
+    "company": "NASSCOM Future Skills",
+    "career_page_url": "https://nasscom.in/internship",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 383,
+    "company": "iGrad (NSDC)",
+    "career_page_url": "https://igrad.skillindia.gov.in",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 384,
+    "company": "Skill India Portal",
+    "career_page_url": "https://skillindia.gov.in/internships",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 385,
+    "company": "MoHUA Internship",
+    "career_page_url": "https://mohua.gov.in/internship.php",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 386,
+    "company": "PMInternship Scheme",
+    "career_page_url": "https://pminternship.mca.gov.in",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 387,
+    "company": "MeitY Internship",
+    "career_page_url": "https://internship.meity.gov.in",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 388,
+    "company": "NITI Aayog Internship",
+    "career_page_url": "https://www.niti.gov.in/internship-niti-aayog",
+    "category": "Govt Portal",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 389,
+    "company": "IOCL (Indian Oil)",
+    "career_page_url": "https://iocl.com/career",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 390,
+    "company": "BHEL",
+    "career_page_url": "https://careers.bhel.in",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 391,
+    "company": "ONGC",
+    "career_page_url": "https://ongcindia.com/career",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 392,
+    "company": "NTPC",
+    "career_page_url": "https://ntpc.co.in/en/human-resource/recruitment",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 393,
+    "company": "SAIL",
+    "career_page_url": "https://sail.co.in/jobs",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 394,
+    "company": "Coal India",
+    "career_page_url": "https://coalindia.in/en-us/careers.aspx",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 395,
+    "company": "HAL (Hindustan Aeronautics)",
+    "career_page_url": "https://hal-india.co.in/careers",
+    "category": "PSU",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 396,
+    "company": "DRDO",
+    "career_page_url": "https://www.drdo.gov.in/home",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 397,
+    "company": "ISRO",
+    "career_page_url": "https://www.isro.gov.in/Internship.html",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 398,
+    "company": "CSIR Labs",
+    "career_page_url": "https://csirhrdg.res.in/internships",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 399,
+    "company": "BARC (Bhabha Atomic)",
+    "career_page_url": "https://barc.gov.in/careers",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 400,
+    "company": "TIFR",
+    "career_page_url": "https://www.tifr.res.in/src/summer.html",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 401,
+    "company": "IISc Bangalore",
+    "career_page_url": "https://iisc.ac.in/internships",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 402,
+    "company": "IIT Delhi Summer Internship",
+    "career_page_url": "https://home.iitd.ac.in",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 403,
+    "company": "NIT Trichy",
+    "career_page_url": "https://www.nitt.edu/home/students/internships",
+    "category": "Govt Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 404,
+    "company": "Google Summer of Code",
+    "career_page_url": "https://summerofcode.withgoogle.com",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 405,
+    "company": "MLH Fellowship",
+    "career_page_url": "https://fellowship.mlh.io",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 406,
+    "company": "Outreachy",
+    "career_page_url": "https://www.outreachy.org",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 407,
+    "company": "Rails Girls Summer of Code",
+    "career_page_url": "https://railsgirlssummerofcode.org",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 408,
+    "company": "LFX Mentorship (Linux Foundation)",
+    "career_page_url": "https://mentorship.lfx.linuxfoundation.org",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 409,
+    "company": "FOSSASIA Open Tech Summit",
+    "career_page_url": "https://fossasia.org/internship",
+    "category": "Free Programs",
+    "type": "Stipend/Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 410,
+    "company": "Mozilla Open Source",
+    "career_page_url": "https://www.mozilla.org/en-US/careers",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 411,
+    "company": "Apache Software Foundation",
+    "career_page_url": "https://community.apache.org/gsoc.html",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 412,
+    "company": "UN Volunteers (India)",
+    "career_page_url": "https://www.unv.org/become-volunteer/volunteer-now",
+    "category": "Free Programs",
+    "type": "Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 413,
+    "company": "UN Development Programme (UNDP)",
+    "career_page_url": "https://www.undp.org/India/jobs",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 414,
+    "company": "UNICEF India",
+    "career_page_url": "https://www.unicef.org/careers/internships",
+    "category": "Free Programs",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 415,
+    "company": "Internshala (jobs section)",
+    "career_page_url": "https://internshala.com/jobs",
+    "category": "Job Board",
+    "type": "Both",
+    "dynamic": false,
+    "source": "internshala"
+  },
+  {
+    "row_number": 416,
+    "company": "Apna App",
+    "career_page_url": "https://apna.co/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 417,
+    "company": "WorkIndia",
+    "career_page_url": "https://www.workindia.in/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 418,
+    "company": "Hirist",
+    "career_page_url": "https://www.hirist.com/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 419,
+    "company": "Cutshort",
+    "career_page_url": "https://cutshort.io/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 420,
+    "company": "Instahyre",
+    "career_page_url": "https://www.instahyre.com/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 421,
+    "company": "iimjobs.com",
+    "career_page_url": "https://www.iimjobs.com/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 422,
+    "company": "Foundit (formerly Monster)",
+    "career_page_url": "https://www.foundit.in/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 423,
+    "company": "TimesJobs",
+    "career_page_url": "https://www.timesjobs.com/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 424,
+    "company": "Shine.com",
+    "career_page_url": "https://www.shine.com/careers",
+    "category": "Job Board",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 425,
+    "company": "Wellfound (AngelList India)",
+    "career_page_url": "https://wellfound.com/jobs?country=IN",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 426,
+    "company": "Unstop (formerly D2C)",
+    "career_page_url": "https://unstop.com/internships",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 427,
+    "company": "LetsIntern",
+    "career_page_url": "https://www.letsintern.com",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 428,
+    "company": "HelloIntern",
+    "career_page_url": "https://hellointern.in",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 429,
+    "company": "Internship.co.in",
+    "career_page_url": "https://internship.co.in",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 430,
+    "company": "Internmatch",
+    "career_page_url": "https://internmatch.in",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 431,
+    "company": "Twenty19",
+    "career_page_url": "https://www.twenty19.com",
+    "category": "Startup Jobs",
+    "type": "Both",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 432,
+    "company": "Samagra Governance",
+    "career_page_url": "https://samagragovernance.in/careers",
+    "category": "Govt/NGO",
+    "type": "Paid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 433,
+    "company": "iSPIRT Foundation",
+    "career_page_url": "https://ispirt.in/opportunities",
+    "category": "NGO Tech",
+    "type": "Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 434,
+    "company": "India Stack (volunteer)",
+    "career_page_url": "https://indiastack.org",
+    "category": "NGO Tech",
+    "type": "Unpaid",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 435,
+    "company": "Ashoka University",
+    "career_page_url": "https://www.ashoka.edu.in/careers",
+    "category": "Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 436,
+    "company": "ISB (Hyderabad)",
+    "career_page_url": "https://www.isb.edu/en/about-isb/join-us.html",
+    "category": "Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 437,
+    "company": "IIM Ahmedabad",
+    "career_page_url": "https://www.iima.ac.in/web/about-iima/recruitments",
+    "category": "Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  },
+  {
+    "row_number": 438,
+    "company": "IIM Bangalore",
+    "career_page_url": "https://www.iimb.ac.in/node/13",
+    "category": "Research",
+    "type": "Stipend",
+    "dynamic": false,
+    "source": "career-page"
+  }
+]

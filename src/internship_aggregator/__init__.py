@@ -1,0 +1,2 @@
+"""Serverless internship aggregator package."""
+
