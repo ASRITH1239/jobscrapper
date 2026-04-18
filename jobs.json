@@ -1,12 +1,139 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-04-18T18:54:54.048872+00:00",
   "stats": {
-    "total_companies": 0,
-    "scraped_companies": 0,
-    "total_jobs": 0,
-    "new_jobs_last_24h": 0,
-    "failures": 0
+    "total_companies": 25,
+    "scraped_companies": 2,
+    "total_jobs": 6,
+    "new_jobs_last_24h": 6,
+    "failures": 7
   },
-  "jobs": [],
-  "failures": []
+  "jobs": [
+    {
+      "id": "033358df4d7189a77d34be8c12a56343954b4eb73fce039a9099eefa6fad4d71",
+      "title": "Why HP Career Areas Administration Business Planning Corporate Administration Data & Information Technology Engineering Engineering Services Finance Human Resources Internships Legal Administration Business Planning Corporate Administration Marketing Quality Sales Sales Operations Services Software Supply Chain & Operations Technical HP Stories Growing at HP The HP Way Job Applicant Privacy Notice Inclusion at HP Sustainable Impact HP LIFE Accessibility Support Join Talent Community English Chinese Korean French (Canada) French (France) Japanese Search Jobs",
+      "company": "HP India",
+      "location": "Not specified",
+      "apply_link": "https://jobs.hp.com",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:29.902373+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    },
+    {
+      "id": "b617e069e985898f5e14bd7e4f4dba9f2e776d0fc2132bf4d2f419eb5abd7979",
+      "title": "Internships",
+      "company": "HP India",
+      "location": "Not specified",
+      "apply_link": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_seniority=internship",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:29.902373+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    },
+    {
+      "id": "9a83de9de8a3327c121acf697b2c6cdb0c8723e37803ea43cb3c1f5c2e0ada71",
+      "title": "Join Talent Network Saved Jobs Language English Espa\u00f1ol Deutsch Portugu\u00eas \u65e5\u672c\u8a9e \u7b80\u4f53\u4e2d\u6587 My Application Life at Dell Back Life at Dell How We Work and Lead Global Benefits You and Dell Back You and Dell How We Hire FAQs Growing Your Career Students Back Students Internships Graduates Our Opportunities Back Our Opportunities Software Engineering Global Sales Data & Analytics Our Locations Our Stories Saved Jobs My Application",
+      "company": "Dell Technologies India",
+      "location": "Locations Our Stories Saved Jobs My Application",
+      "apply_link": "https://jobs.dell.com/",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:27.638248+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    },
+    {
+      "id": "0dea11a8ebba810f1eff7acf03ed2ad03a237c393176a18f9a9d7d72d10db843",
+      "title": "Internships",
+      "company": "Dell Technologies India",
+      "location": "Not specified",
+      "apply_link": "https://jobs.dell.com/internships",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:27.638248+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    },
+    {
+      "id": "f69259cd898175849ecb18fe67f7800870dd3700cfb3347828cddd6890a5e117",
+      "title": "Explore Internships",
+      "company": "Dell Technologies India",
+      "location": "Not specified",
+      "apply_link": "https://jobs.dell.com/internships",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:27.638248+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    },
+    {
+      "id": "f4a7d9548c19e3802c2bbcdc4dbb1b53fa2905554d74bbb920739510c1300391",
+      "title": "Internships",
+      "company": "Dell Technologies India",
+      "location": "Not specified",
+      "apply_link": "https://jobs.dell.com/category/internship-jobs/375/24213/1",
+      "category": "Tech MNC",
+      "type": "Paid",
+      "source": "career-page",
+      "scraped_at": "2026-04-18T18:54:54.048872+00:00",
+      "first_seen_at": "2026-04-18T18:57:27.638248+00:00",
+      "last_seen_at": "2026-04-18T18:54:54.048872+00:00",
+      "posted_at": null,
+      "discovered_via": "generic-html"
+    }
+  ],
+  "failures": [
+    {
+      "company": "Google India",
+      "url": "https://careers.google.com",
+      "reason": "No HTML returned"
+    },
+    {
+      "company": "Meta (Facebook) India",
+      "url": "https://www.metacareers.com",
+      "reason": "No HTML returned"
+    },
+    {
+      "company": "Intel India",
+      "url": "https://jobs.intel.com",
+      "reason": "No HTML returned"
+    },
+    {
+      "company": "Nvidia India",
+      "url": "https://nvidia.wd5.myworkdayjobs.com",
+      "reason": "Dynamic fetch failed: BrowserType.launch: Executable doesn't exist at C:\\Users\\acer\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1208\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557\n\u2551 Looks like Playwright was just installed or updated.       \u2551\n\u2551 Please run the following command to download new browsers: \u2551\n\u2551                                                            \u2551\n\u2551     playwright install                                     \u2551\n\u2551                                                            \u2551\n\u2551 <3 Playwright Team                                         \u2551\n\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d"
+    },
+    {
+      "company": "Cognizant India",
+      "url": "https://careers.cognizant.com",
+      "reason": "No HTML returned"
+    },
+    {
+      "company": "TCS",
+      "url": "https://www.tcs.com/careers",
+      "reason": "No HTML returned"
+    },
+    {
+      "company": "Infosys",
+      "url": "https://www.infosys.com/careers",
+      "reason": "No HTML returned"
+    }
+  ]
 }
