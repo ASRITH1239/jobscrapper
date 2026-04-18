@@ -16,6 +16,21 @@ from internship_aggregator.utils import (
     safe_json_loads,
 )
 
+MAX_REASONABLE_TITLE_LENGTH = 140
+MAX_REASONABLE_TITLE_WORDS = 18
+BLOCKED_TITLE_FRAGMENTS = (
+    "privacy",
+    "terms",
+    "investor relations",
+    "log in",
+    "login",
+    "register",
+    "cookie",
+    "site map",
+    "sitemap",
+    "complaint",
+)
+
 
 def _iter_json_nodes(payload: Any) -> Iterable[dict[str, Any]]:
     if isinstance(payload, dict):
@@ -91,6 +106,22 @@ def extract_json_ld_jobs(
     return jobs[:MAX_JOBS_PER_COMPANY]
 
 
+def is_reasonable_job_title(title: str) -> bool:
+    cleaned = normalize_title(title)
+    if not cleaned:
+        return False
+    if len(cleaned) > MAX_REASONABLE_TITLE_LENGTH:
+        return False
+    if len(cleaned.split()) > MAX_REASONABLE_TITLE_WORDS:
+        return False
+    lower = cleaned.lower()
+    if any(fragment in lower for fragment in BLOCKED_TITLE_FRAGMENTS):
+        return False
+    if cleaned.count("|") > 1:
+        return False
+    return True
+
+
 def extract_generic_jobs(
     soup: BeautifulSoup,
     company: CompanyTarget,
@@ -122,6 +153,9 @@ def extract_generic_jobs(
         if not is_internship_title(candidate_title):
             continue
 
+        if not is_reasonable_job_title(candidate_title):
+            continue
+
         key = (candidate_title.lower(), href.lower())
         if key in seen:
             continue
@@ -141,4 +175,3 @@ def extract_generic_jobs(
             break
 
     return jobs
-

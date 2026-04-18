@@ -7,8 +7,7 @@ const state = {
 };
 
 const els = {
-  jobsGrid: document.getElementById("jobs-grid"),
-  template: document.getElementById("job-card-template"),
+  jobsTableBody: document.getElementById("jobs-table-body"),
   emptyState: document.getElementById("empty-state"),
   categoryFilter: document.getElementById("category-filter"),
   typeFilter: document.getElementById("type-filter"),
@@ -67,6 +66,42 @@ function formatTimestamp(value) {
   }).format(new Date(value));
 }
 
+function compactText(value, maxLength = 80) {
+  const text = (value || "").trim();
+  if (text.length <= maxLength) {
+    return text || "Not specified";
+  }
+  return `${text.slice(0, maxLength - 1)}...`;
+}
+
+function isReasonableTitle(title) {
+  const value = (title || "").trim();
+  if (!value) {
+    return false;
+  }
+  if (value.length > 140) {
+    return false;
+  }
+  if (value.split(/\s+/).length > 18) {
+    return false;
+  }
+
+  const lower = value.toLowerCase();
+  const blockedFragments = [
+    "privacy",
+    "terms",
+    "investor relations",
+    "log in",
+    "login",
+    "register",
+    "cookie",
+    "site map",
+    "sitemap",
+    "complaint",
+  ];
+  return !blockedFragments.some((fragment) => lower.includes(fragment));
+}
+
 function sortJobs(jobs, mode) {
   const sorted = [...jobs];
   sorted.sort((left, right) => {
@@ -114,40 +149,74 @@ function toggleBookmark(jobId) {
 }
 
 function renderJobs() {
-  els.jobsGrid.innerHTML = "";
+  els.jobsTableBody.innerHTML = "";
   els.resultsCount.textContent = `${state.filteredJobs.length} matches`;
   els.emptyState.classList.toggle("hidden", state.filteredJobs.length !== 0);
 
   for (const job of state.filteredJobs) {
-    const fragment = els.template.content.cloneNode(true);
-    const card = fragment.querySelector(".job-card");
-    const title = fragment.querySelector(".job-title");
-    const company = fragment.querySelector(".job-company");
-    const location = fragment.querySelector(".job-location");
-    const sourcePill = fragment.querySelector(".source-pill");
-    const newPill = fragment.querySelector(".new-pill");
-    const categoryPill = fragment.querySelector(".category-pill");
-    const typePill = fragment.querySelector(".type-pill");
-    const postedAt = fragment.querySelector(".posted-at");
-    const applyLink = fragment.querySelector(".apply-link");
-    const bookmarkButton = fragment.querySelector(".bookmark-button");
+    const row = document.createElement("tr");
 
-    title.textContent = job.title;
-    company.textContent = job.company;
-    location.textContent = job.location || "Not specified";
-    sourcePill.textContent = job.source;
-    categoryPill.textContent = job.category;
-    typePill.textContent = job.type;
-    postedAt.textContent = isNew(job)
-      ? "Added in the last 24 hours"
-      : `First seen ${formatTimestamp(job.first_seen_at)}`;
-    applyLink.href = job.apply_link;
-    newPill.classList.toggle("hidden", !isNew(job));
-    bookmarkButton.classList.toggle("active", state.bookmarks.has(job.id));
+    const bookmarkCell = document.createElement("td");
+    const bookmarkButton = document.createElement("button");
+    bookmarkButton.type = "button";
+    bookmarkButton.className = "bookmark-button";
+    bookmarkButton.textContent = state.bookmarks.has(job.id) ? "Saved" : "Save";
+    bookmarkButton.setAttribute("aria-label", "Bookmark internship");
     bookmarkButton.addEventListener("click", () => toggleBookmark(job.id));
+    bookmarkCell.appendChild(bookmarkButton);
 
-    card.dataset.jobId = job.id;
-    els.jobsGrid.appendChild(fragment);
+    const titleCell = document.createElement("td");
+    titleCell.className = "title-cell";
+    titleCell.title = job.title;
+    titleCell.textContent = compactText(job.title, 90);
+    if (isNew(job)) {
+      const badge = document.createElement("span");
+      badge.className = "new-badge";
+      badge.textContent = "New";
+      titleCell.appendChild(document.createTextNode(" "));
+      titleCell.appendChild(badge);
+    }
+
+    const companyCell = document.createElement("td");
+    companyCell.textContent = compactText(job.company, 40);
+
+    const locationCell = document.createElement("td");
+    locationCell.textContent = compactText(job.location || "Not specified", 30);
+
+    const categoryCell = document.createElement("td");
+    categoryCell.textContent = compactText(job.category, 24);
+
+    const typeCell = document.createElement("td");
+    typeCell.textContent = compactText(job.type, 16);
+
+    const sourceCell = document.createElement("td");
+    sourceCell.textContent = compactText(job.source, 16);
+
+    const addedCell = document.createElement("td");
+    addedCell.textContent = isNew(job) ? "Last 24h" : formatTimestamp(job.first_seen_at);
+
+    const applyCell = document.createElement("td");
+    const applyLink = document.createElement("a");
+    applyLink.href = job.apply_link;
+    applyLink.target = "_blank";
+    applyLink.rel = "noopener noreferrer";
+    applyLink.className = "apply-link";
+    applyLink.textContent = "Open";
+    applyCell.appendChild(applyLink);
+
+    row.append(
+      bookmarkCell,
+      titleCell,
+      companyCell,
+      locationCell,
+      categoryCell,
+      typeCell,
+      sourceCell,
+      addedCell,
+      applyCell
+    );
+
+    els.jobsTableBody.appendChild(row);
   }
 }
 
@@ -179,10 +248,22 @@ async function boot() {
     const payload = await loadJobsPayload();
     const jobs = Array.isArray(payload) ? payload : payload.jobs || [];
     state.metadata = payload;
-    state.jobs = jobs;
+    state.jobs = jobs.filter((job) => isReasonableTitle(job.title));
 
-    populateCategoryFilter(jobs);
-    renderStats(Array.isArray(payload) ? { jobs } : payload);
+    populateCategoryFilter(state.jobs);
+    renderStats(
+      Array.isArray(payload)
+        ? { jobs: state.jobs }
+        : {
+            ...payload,
+            jobs: state.jobs,
+            stats: {
+              ...(payload.stats || {}),
+              total_jobs: state.jobs.length,
+              new_jobs_last_24h: state.jobs.filter(isNew).length,
+            },
+          }
+    );
     updateFilters();
   } catch (error) {
     els.updatedAt.textContent = "Unable to load jobs feed.";
@@ -204,4 +285,3 @@ els.bookmarkToggle.addEventListener("click", () => {
 });
 
 boot();
-
